@@ -53,7 +53,7 @@ DESIGNATHON-2025-SPARK_SQUAD/
 
 ---
 
-## 🔐 Security Considerations
+## Security Considerations
 - Designed to handle sensitive user data responsibly  
 - Supports anonymous reporting to protect user identity  
 - Backend API architecture allows extension to JWT-based authentication  
@@ -61,7 +61,7 @@ DESIGNATHON-2025-SPARK_SQUAD/
 
 ---
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 ### Backend
 ```bash
@@ -69,3 +69,5 @@ cd backend
 pip install -r requirements.txt
 uvicorn app:app --reload
 
+Frontend
+Open any HTML file from the frontend/html/ directory in a browser.
