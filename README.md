@@ -37,7 +37,7 @@ Many victims of gender-based violence hesitate to report incidents due to fear, 
 ---
 
 ## Project Structure
-DESIGNATHON-2025-SPARK_SQUAD/
+Gender-Based-Violence-Prevention-and-Reporting-System/
 ├── frontend/
 │ ├── html/ # UI pages
 │ ├── css/ # Stylesheets
